@@ -1,0 +1,23 @@
+.header_nav {
+  background-color: brown;
+  padding: 1% 10%;
+  display: flex;
+  justify-content: space-between;
+}
+.header_about {
+  margin: 1% 30%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: $size_1 solid $black;
+  border-radius: $size_4;
+  background-color: $grey;
+  color: $white;
+}
+.dp,
+.dp img {
+  width: 100%;
+}
+.dp img {
+  min-height: 180px;
+}

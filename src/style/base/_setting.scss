@@ -1,0 +1,73 @@
+// Colours
+$black: #000000;
+$white: #ffffff;
+$transparent: #ffffff00;
+$pale_orange: #ff8e61;
+$green: #008000;
+$red: #ff0000;
+$orange: #ffa500;
+$grey: #444444;
+
+$red_gradient: linear-gradient(147deg, #e3e3e3 0%, #d93965 74%);
+$red_gradient_color: #e3e3e3;
+
+$dark_red_gradient: linear-gradient(147deg, #990000 0%, #ff0000 74%);
+$dark_red_gradient_color: #990000;
+
+$blue_gradient: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
+$blue_gradient_color: #eec0c6;
+
+$cream_gradient: linear-gradient(315deg, #f1dfd1 0%, #f6f0ea 74%);
+$cream_gradient_color: #f1dfd1;
+
+$white_gradient: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+$white_gradient_color: #b8c6db;
+
+$green_gradient: linear-gradient(315deg, #08e1ae 0%, #98de5b 74%);
+$green_gradient_color: #08e1ae;
+
+$yellow_gradient: linear-gradient(315deg, #fec84e 0%, #ffdea8 74%);
+$yellow_gradient_color: #fec84e;
+
+$pink_gradient: linear-gradient(315deg, #f6ecc4 0%, #f7d4d4 74%);
+$pink_gradient_color: #f6ecc4;
+
+$orange_gradient: linear-gradient(
+  319deg,
+  #ffcb43 0%,
+  #ff6425 37%,
+  #ff0016 100%
+);
+$orange_gradient_color: #ffcb43;
+
+// Sizes
+$size_1: 0.2rem;
+$size_2: 0.4rem;
+$size_3: 0.8rem;
+$size_4: 1.2rem;
+$size_5: 1.4rem;
+$size_6: 1.6rem;
+$size_7: 1.8rem;
+$size_8: 2rem;
+$size_9: 2.8rem;
+$size_10: 3.2rem;
+$size_11: 3.6rem;
+$size_12: 4.8rem;
+$size_13: 6.4rem;
+$size_14: 7.2rem;
+$size_15: 8.4rem;
+$size_16: 9.6rem;
+$size_17: 10.2rem;
+$size_18: 11.4rem;
+$size_19: 12.6rem;
+$size_20: 13.8rem;
+$size_21: 16.4rem;
+$size_22: 19.2rem;
+$size_23: 20.5rem;
+$size_24: 24rem;
+$size_25: 30rem;
+$size_26: 39rem;
+
+$desktop_breakpoint_1: 79rem;
+$desktop_breakpoint_2: 69rem;
+$desktop_breakpoint_3: 31.25rem;

@@ -1,0 +1,30 @@
+.food_card {
+  margin: 1% 20%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  background-color: white;
+}
+.food_card button {
+  color: white;
+  background-color: brown;
+  padding: 0.75rem 3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bold;
+}
+.quantity {
+  padding: 0%;
+  width: 5%;
+  text-align: center;
+}
+.food_card button:hover,
+.food_card button:active {
+  background-color: #5a1a01;
+  border-color: #5a1a01;
+  color: white;
+}
